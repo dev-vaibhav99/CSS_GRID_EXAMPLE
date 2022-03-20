@@ -24,3 +24,8 @@ body {
   text-decoration: none;
   border: 0;
 }
+
+.wrapper {
+  display: grid;
+  gap: 20px;
+}
